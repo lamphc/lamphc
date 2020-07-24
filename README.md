@@ -1,6 +1,6 @@
 ### Hi there 👋
-授课中...
-![rn](rn.png)
+> 授课中...
+<img src="https://github.com/lamphc/lamphc/blob/master/rn.jpg" />
 
 
 
