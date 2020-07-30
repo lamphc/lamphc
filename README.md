@@ -1,8 +1,7 @@
 ### Hi there 👋
 > 授课中...
-<img src="https://github.com/lamphc/lamphc/blob/master/rn.jpg" />
 
-
+![rn](rn.jpg)
 
 <!--
 **lamphc/lamphc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
