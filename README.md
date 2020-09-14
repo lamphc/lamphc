@@ -1,7 +1,11 @@
 ### Hi there 👋
 > 授课中...
 
-![rn](rn.jpg)
+<p>[提问](https://github.com/lamphc/lamphc/issues/1)</p>
+
+[![Medium](https://img.shields.io/badge/blog-medium-red.svg)](https://www.zhihu.com/people/wang-meng-30-78/posts)
+[![Platform](https://img.shields.io/badge/platform-ios%20%7C%20android-green.svg)](https://npmjs.org/package/react-native-modal-pay "View this project on npm")
+[![npm](https://img.shields.io/npm/l/react-native-modal-pay.svg?style=flat-square)](https://github.com/lamphc/react-native-pay/blob/master/LICENSE)
 
 <!--
 **lamphc/lamphc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
