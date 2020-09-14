@@ -3,8 +3,10 @@
 
 <p>[提问](https://github.com/lamphc/lamphc/issues/1)</p>
 
-[![Medium](https://img.shields.io/badge/blog-medium-red.svg)](https://www.zhihu.com/people/wang-meng-30-78/posts)
-[![Platform](https://img.shields.io/badge/platform-ios%20%7C%20android-green.svg)](https://npmjs.org/package/react-native-modal-pay "View this project on npm")
+![1](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1600084424918&di=a17385bde0fbf9c54c59f3bedd361f0f&imgtype=0&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D2618605068%2C893178215%26fm%3D214%26gp%3D0.jpg)
+
+[![Medium](https://img.shields.io/badge/blog-medium-red.svg)](https://www.zhihu.com/people/wang-meng-30-78/posts "知乎？")
+[![Platform](https://img.shields.io/badge/platform-ios%20%7C%20android-green.svg)](https://github.com/lamphc?tab=repositories "看看我的仓库！")
 [![npm](https://img.shields.io/npm/l/react-native-modal-pay.svg?style=flat-square)](https://github.com/lamphc/react-native-pay/blob/master/LICENSE)
 
 <!--
