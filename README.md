@@ -4,9 +4,19 @@
 <img src="https://meng-imgs.oss-cn-beijing.aliyuncs.com/cat.jpeg" width="635" />
 
 
-[![B站](https://img.shields.io/badge/blog-medium-red.svg)](https://space.bilibili.com/151073996?spm_id_from=333.1007.0.0 "b站教学!")
-[![Platform](https://img.shields.io/badge/platform-ios%20%7C%20android-green.svg)](https://github.com/lamphc?tab=repositories "看看我的仓库！")
-[![npm](https://img.shields.io/npm/l/react-native-modal-pay.svg?style=flat-square)](https://github.com/lamphc/react-native-pay/blob/master/LICENSE)
+
+<p align="left">
+  <a href="https://space.bilibili.com/151073996?spm_id_from=333.1007.0.0" target="_blank">
+    <img src="https://img.shields.io/badge/b站教学-brightgreen.svg" alt="b站教学!">
+  </a>
+  <a href="https://github.com/lamphc?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=my repositories&message=base&color=blueviolet" alt="my repositories">
+  </a>
+    <a href="https://github.com/lamphc/react-native-pay" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=react-native-pay&message=base&color=blue" alt="react-native-pay">
+  </a>
+</p>
+
 
 <!--
 **lamphc/lamphc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
